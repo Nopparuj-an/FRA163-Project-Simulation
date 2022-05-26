@@ -9,7 +9,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install depende
 ```bash
 pip install pygame playsound
 git clone https://github.com/Nopparuj-an/FRA163-Project-Simulation.git
-python3 .\FRA163-Project-Simulation main.py
+cd .\FRA163-Project-Simulation
+python3 main.py
 ```
 
 ## Usage
